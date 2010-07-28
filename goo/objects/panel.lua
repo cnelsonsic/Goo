@@ -43,7 +43,7 @@ end
 function goo.panel:draw( x, y )
 	super.draw(self)
 	self:drawbox()
-	self:setColor( self.style.seperatorColor )
+	self:setColor( self.style.separatorColor )
 	love.graphics.setLine(1, 'smooth')
 	love.graphics.line( 0, 8, self.w, 8)
 	self:setColor( self.style.titleColor )

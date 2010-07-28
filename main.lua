@@ -162,7 +162,7 @@ panels[4] = function()
 	
 	local panel_style = {
 		titleColor = {0,0,0,0},
-		seperatorColor = {0,0,0,0}
+		separatorColor = {0,0,0,0}
 	}
 	
 	local p1 = goo.panel:new( group )

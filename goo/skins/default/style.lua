@@ -22,7 +22,7 @@ style['goo panel'] = {
 	borderColor = {255,255,255},
 	titleColor = {130,130,130},
 	titleFont = fonts.oldsans12,
-	seperatorColor = {100,100,100}
+	separatorColor = {100,100,100}
 }
 
 style['goo close button'] = {
